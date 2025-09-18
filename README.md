@@ -3,47 +3,22 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Documentation](https://img.shields.io/badge/docs-latest-brightgreen.svg)](docs/)
 
-<div style="display: flex; gap: 20px;">
-
-<!-- Menu Lateral -->
-<div style="flex: 0 0 280px; background: #f8f9fa; padding: 20px; border-radius: 8px; border-left: 4px solid #0366d6;">
-
-## 📋 MENU DE NAVEGAÇÃO
-
-### 📖 Documentos
-- **[🏠 README](README.md)**  
-  *Você está aqui*
-- **[🚀 Onboarding](onboarding.md)**  
-  *Guia de integração*
-- **[⚙️ Setup Dev](setup_dev.md)**  
-  *Configuração ambiente*
-- **[📝 Questionário](questionario.md)**  
-  *Avaliação técnica*
-
 ---
 
-### 🔍 Seções Rápidas
-- [👥 Novos Membros](#para-novos-membros)
-- [🏗️ Estrutura](#️-estrutura-do-repositório)
-- [🛠️ Recursos](#️-recursos-técnicos)
-- [📚 Documentação](#-documentação-e-recursos)
-- [🤝 Colaboração](#-colaboração-e-comunicação)
-- [📊 Projetos](#-projetos-e-pesquisa)
-- [🆘 Suporte](#suporte-e-troubleshooting)
-- [📧 Contatos](#contatos)
+## 📋 ÍNDICE DE NAVEGAÇÃO
+
+| 📖 **DOCUMENTOS** | 🔍 **SEÇÕES PRINCIPAIS** |
+|-------------------|-------------------------|
+| **[🏠 README](README.md)** ← *Você está aqui* | [👥 Para Novos Membros](#para-novos-membros) |
+| **[🚀 Guia de Onboarding](onboarding.md)** | [🏗️ Estrutura do Repositório](#️-estrutura-do-repositório) |
+| **[⚙️ Setup de Desenvolvimento](setup_dev.md)** | [🛠️ Recursos Técnicos](#️-recursos-técnicos) |
+| **[📝 Questionário Técnico](questionario.md)** | [� Documentação e Recursos](#-documentação-e-recursos) |
+|  | [🤝 Colaboração e Comunicação](#-colaboração-e-comunicação) |
+|  | [📊 Projetos e Pesquisa](#-projetos-e-pesquisa) |
+|  | [🆘 Suporte e Troubleshooting](#suporte-e-troubleshooting) |
+|  | [📧 Contatos](#contatos) |
 
 ---
-
-### 🎯 Links Úteis
-- **Git Repository**
-- **Wiki Interno**
-- **Slack/Teams**
-- **Recursos HPC**
-
-</div>
-
-<!-- Conteúdo Principal -->
-<div style="flex: 1; padding-left: 20px;">
 
 > **Bem-vindo ao Laboratório de Química Quântica e Computacional!**
 >
@@ -179,6 +154,3 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ---
 
 > **💡 Dica**: Este README é um documento vivo. Contribua com melhorias através de pull requests!
-
-</div>
-</div>
