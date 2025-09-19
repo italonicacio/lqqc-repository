@@ -1,25 +1,25 @@
-# Questionário de Conhecimentos Computacionais - LQQC
+# Questionário de Avaliação Técnica - LQQC
 
-## Onboarding
+## 📝 Objetivo
 
-Este questionário visa avaliar o conhecimento de novos ingressantes no grupo de pesquisa do *LQQC* nas principais tecnologias computacionais utilizadas em nossos projetos.
+Este questionário visa avaliar o conhecimento de novos ingressantes no **LQQC** nas principais tecnologias computacionais utilizadas em nossos projetos.
 
-**Importante**: Para alunos de iniciação cientifica. Não esperamos conhecimento avançado, mas sim familiaridade básica com os conceitos. O objetivo é identificar pontos de partida para o treinamento e desenvolvimento durante o projeto.
+> **Importante**: Para alunos de iniciação científica, não esperamos conhecimento avançado, mas sim familiaridade básica com os conceitos. O objetivo é identificar pontos de partida para o treinamento e desenvolvimento durante o projeto.
 
 Para cada item, indique seu nível de conhecimento: **Nenhum**, **Básico**, **Intermediário** ou **Avançado**.
 
-**Instruções de Preenchimento:**
+## 📊 Escala de Avaliação
 
 Para cada tópico, indique seu nível de conhecimento atual:
 
-- **Nenhum**: Nunca vi, não conheço o conceito
-- **Básico**: Já ouvi falar, tenho noção básica ou usei poucas vezes
-- **Intermediário**: Uso com alguma frequência, me sinto confortável com o básico
-- **Avançado**: Domino bem, posso ajudar outros colegas
+- **❌ Nenhum**: Nunca vi, não conheço o conceito
+- **🟡 Básico**: Já ouvi falar, tenho noção básica ou usei poucas vezes
+- **🔵 Intermediário**: Uso com alguma frequência, me sinto confortável com o básico
+- **✅ Avançado**: Domino bem, posso ajudar outros colegas
 
-**Lembre-se**: Este questionário serve para nos ajudar a planejar seu treinamento. Não há respostas "certas" ou "erradas" - queremos saber seu ponto de partida para melhor orientá-lo durante a iniciação cientifica!
+> **Lembre-se**: Este questionário serve para nos ajudar a planejar seu treinamento. Não há respostas "certas" ou "erradas" - queremos saber seu ponto de partida para melhor orientá-lo durante a iniciação científica!
 
-## Análise de Dados Científicos - Nível Introdutório
+## 🔬 Análise de Dados Científicos - Nível Introdutório
 
 1. **Gráficos científicos**: Sabe criar gráficos básicos com matplotlib ou similar?
 2. **Planilhas científicas**: Consegue organizar e analisar dados em Excel/LibreOffice/Google Sheets?

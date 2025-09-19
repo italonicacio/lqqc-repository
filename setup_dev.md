@@ -1,5 +1,17 @@
 
-# Configurando ambiente de dev
+# Setup de Desenvolvimento - LQQC
+
+Este guia fornece instruções detalhadas para configurar seu ambiente de desenvolvimento no **Laboratório de Química Quântica e Computacional**.
+
+## 📋 Pré-requisitos
+
+Antes de começar, certifique-se de que você tem:
+
+- Acesso administrativo ao seu sistema
+- Conexão estável com a internet
+- Pelo menos 5GB de espaço livre em disco
+
+## 🛠️ Ferramentas Essenciais
 
 ## 1. Configuração do Ambiente de Desenvolvimento
 

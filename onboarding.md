@@ -1,6 +1,18 @@
 # Guia de Onboarding - LQQC
 
-Bem-vindo ao Laboratório de Química Quântica e Computacional (LQQC)! Este guia foi desenvolvido para facilitar a integração de novos membros ao nosso laboratório.
+Bem-vindo ao **Laboratório de Química Quântica e Computacional (LQQC)**!
+
+Este guia foi desenvolvido para facilitar a integração de novos membros ao laboratório, fornecendo todas as informações necessárias para um início produtivo em nossas atividades de pesquisa.
+
+## 1. Primeiros Passos
+
+### ✅ Checklist Inicial
+
+- [ ] Leitura completa deste documento
+- [ ] Configuração do ambiente de desenvolvimento ([Setup](setup_dev.md))
+- [ ] Preenchimento do [questionário técnico](questionario.md)
+- [ ] Obtenção de acesso aos recursos computacionais
+- [ ] Participação na primeira reunião de apresentação
 
 
 ## 2. Estrutura do Laboratório

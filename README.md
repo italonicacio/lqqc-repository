@@ -1,22 +1,19 @@
-# LQQC - Laboratório de Química Quântica e Computacional
+# LQQC ## 📚 Documentos
+
+- **[🚀 Guia de Onboarding](onboarding.md)** - Processo completo de integração
+- **[⚙️ Setup de Desenvolvimento](setup_dev.md)** - Configuração de ambiente
+- **[📝 Questionário Técnico](questionario.md)** - Avaliação de conhecimentosoratório de Química Quântica e Computacional
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Documentation](https://img.shields.io/badge/docs-latest-brightgreen.svg)](docs/)
 
 ---
 
-## 📋 ÍNDICE DE NAVEGAÇÃO
+## � Documentos
 
-| 📖 **DOCUMENTOS** | 🔍 **SEÇÕES PRINCIPAIS** |
-|-------------------|-------------------------|
-| **[🏠 README](README.md)** ← *Você está aqui* | [👥 Para Novos Membros](#para-novos-membros) |
-| **[🚀 Guia de Onboarding](onboarding.md)** | [🏗️ Estrutura do Repositório](#️-estrutura-do-repositório) |
-| **[⚙️ Setup de Desenvolvimento](setup_dev.md)** | [🛠️ Recursos Técnicos](#️-recursos-técnicos) |
-| **[📝 Questionário Técnico](questionario.md)** | [� Documentação e Recursos](#-documentação-e-recursos) |
-|  | [🤝 Colaboração e Comunicação](#-colaboração-e-comunicação) |
-|  | [📊 Projetos e Pesquisa](#-projetos-e-pesquisa) |
-|  | [🆘 Suporte e Troubleshooting](#suporte-e-troubleshooting) |
-|  | [📧 Contatos](#contatos) |
+- **[🚀 Guia de Onboarding](onboarding.md)** - Processo completo de integração
+- **[⚙️ Setup de Desenvolvimento](setup_dev.md)** - Configuração de ambiente
+- **[📝 Questionário Técnico](questionario.md)** - Avaliação de conhecimentos
 
 ---
 
@@ -26,7 +23,7 @@
 
 ## Visão Geral
 
-O LQQC é um centro de excelência em pesquisa computacional aplicada à química quântica, focado em:
+O **Laboratório de Química Quântica e Computacional (LQQC)** é um centro de excelência em pesquisa computacional aplicada à química quântica, focado em:
 
 - **Modelagem molecular** e simulações quânticas
 - **Desenvolvimento de algoritmos** para cálculos ab initio
