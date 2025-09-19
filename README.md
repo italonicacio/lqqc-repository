@@ -1,8 +1,10 @@
-# LQQC ## 📚 Documentos
+# Laboratório de Química Quântica Computacional
+
+## 📚 Documentos
 
 - **[🚀 Guia de Onboarding](onboarding.md)** - Processo completo de integração
 - **[⚙️ Setup de Desenvolvimento](setup_dev.md)** - Configuração de ambiente
-- **[📝 Questionário Técnico](questionario.md)** - Avaliação de conhecimentosoratório de Química Quântica e Computacional
+- **[📝 Questionário Técnico](questionario.md)** - Avaliação de conhecimentos
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Documentation](https://img.shields.io/badge/docs-latest-brightgreen.svg)](docs/)
@@ -120,7 +122,7 @@ onboarding/
 - Cálculos ab initio (MP2, CCSD(T))
 - Dinâmica molecular clássica e quântica
 
-## Suporte e Troubleshooting
+## 🆘 Suporte e Troubleshooting
 
 ### Problemas Comuns
 
@@ -138,15 +140,12 @@ onboarding/
 
 ---
 
-## Contatos
+## 📧 Contatos
 
 - **Coordenação**: [email@universidade.br](mailto:email@universidade.br)
 - **Suporte técnico**: [tech-support@lab.br](mailto:tech-support@lab.br)
 - **Administração**: [admin@lab.br](mailto:admin@lab.br)
 
-## Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
